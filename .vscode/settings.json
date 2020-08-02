@@ -1,0 +1,8 @@
+{
+  "prettier.withNodeModules": true,
+  "editor.formatOnSave": true,
+  "json.schemas": [
+
+],
+"prettier.jsxBracketSameLine": true
+}
