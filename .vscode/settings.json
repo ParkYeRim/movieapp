@@ -4,5 +4,6 @@
   "json.schemas": [
 
 ],
-"prettier.jsxBracketSameLine": true
+"prettier.jsxBracketSameLine": true,
+"prettier.trailingComma": "none"
 }
